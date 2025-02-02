@@ -1,0 +1,883 @@
+Title,Author,Genar,Original_price,final_price,Discount,Discount Percentage,Availability,Stock_Status
+"
+
+            Volpone
+          
+","
+    Ben Jonson
+  ",fiction,225,158,67,29.78,43,In Stock
+"
+
+            Twelfth Night
+          
+","
+    William Shakespeare
+  ",fiction,195,137,58,29.74,39,In Stock
+"
+
+            The Rudyard Kipling Collection
+          
+","
+    Rudyard Kipling
+  ",fiction,250,175,75,30.00,21,In Stock
+"
+
+            The Old Man and the Sea
+          
+","
+    Ernest Hemingway
+  ",fiction,295,222,73,24.75,26,In Stock
+"
+
+            Pride And Prejudice
+          
+","
+    Jane Austen
+  ",fiction,395,277,118,29.87,34,In Stock
+"
+
+            Oliver Twist
+          
+","
+    Charles Dickens
+  ",fiction,195,137,58,29.74,0,Out of Stock
+"
+
+            Henry Iv Part One
+          
+","
+    William Shakespeare
+  ",fiction,275,193,82,29.82,34,In Stock
+"
+
+            Candide
+          
+","
+    Voltaire
+  ",fiction,245,184,61,24.90,36,In Stock
+"
+
+            The Odyssey
+          
+","
+    Homer
+  ",fiction,150,113,37,24.67,46,In Stock
+"
+
+            Siddhartha
+          
+","
+    Hermann Hesse
+  ",fiction,195,147,48,24.62,2,In Stock
+"
+
+            Ulysses
+          
+","
+    James Joyce
+  ",fiction,195,147,48,24.62,0,Out of Stock
+"
+
+            Treasure Island
+          
+","
+    Robert Louis Stevenson
+  ",fiction,195,137,58,29.74,4,In Stock
+"
+
+            To The Lighthouse
+          
+","
+    Virginia Woolf
+  ",fiction,295,207,88,29.83,25,In Stock
+"
+
+            The Way Of The World
+          
+","
+    William Congreve
+  ",fiction,375,263,112,29.87,13,In Stock
+"
+
+            The Turn of the Screw
+          
+","
+    Henry James
+  ",fiction,195,147,48,24.62,38,In Stock
+"
+
+            The Thomas Hardy Collection
+          
+","
+    Thomas Hardy
+  ",fiction,250,175,75,30.00,26,In Stock
+"
+
+            The Sun Also Rises
+          
+","
+    Ernest Hemingway
+  ",fiction,349,262,87,24.93,8,In Stock
+"
+
+            The Sherlock Holmes Collection
+          
+","
+    Sir Arthur Conan Doyle
+  ",fiction,395,297,98,24.81,14,In Stock
+"
+
+            The Secret Agent
+          
+","
+    Joseph Conrad
+  ",fiction,395,277,118,29.87,14,In Stock
+"
+
+            The Scarlet Letter
+          
+","
+    Nathaniel Hawthorne
+  ",fiction,375,263,112,29.87,25,In Stock
+"
+
+            The Return Of The Native
+          
+","
+    Thomas Hardy
+  ",fiction,250,175,75,30.00,41,In Stock
+"
+
+            The Rainbow
+          
+","
+    D.H. Lawrence
+  ",fiction,295,222,73,24.75,12,In Stock
+"
+
+            The Professor
+          
+","
+    Charlotte Bronte
+  ",fiction,295,222,73,24.75,31,In Stock
+"
+
+            The Picture Of Dorian Gray
+          
+","
+    Oscar Wilde
+  ",fiction,295,207,88,29.83,38,In Stock
+"
+
+            The Merchant Of Venice
+          
+","
+    William Shakespeare
+  ",fiction,395,277,118,29.87,48,In Stock
+"
+
+            The Mayor Of Casterbridge
+          
+","
+    Thomas Hardy
+  ",fiction,350,262,88,25.14,31,In Stock
+"
+
+            The Jungle Books
+          
+","
+    Rudyard Kipling
+  ",fiction,250,175,75,30.00,3,In Stock
+"
+
+            The Jane Austen Collection
+          
+","
+    Jane Austen
+  ",fiction,250,175,75,30.00,29,In Stock
+"
+
+            The Invisible Man
+          
+","
+    H.G. Wells
+  ",fiction,295,207,88,29.83,36,In Stock
+"
+
+            The D.H. Lawrence Collection
+          
+","
+    D.H. Lawrence
+  ",fiction,250,175,75,30.00,22,In Stock
+"
+
+            The Charles Dickens Collection
+          
+","
+    Charles Dickens
+  ",fiction,295,222,73,24.75,38,In Stock
+"
+
+            Tess Of The D'Urbervilles
+          
+","
+    Thomas Hardy
+  ",fiction,250,175,75,30.00,44,In Stock
+"
+
+            Sons And Lovers
+          
+","
+    D.H. Lawrence
+  ",fiction,349,262,87,24.93,14,In Stock
+"
+
+            She Stoops To Conquer
+          
+","
+    Oliver Goldsmith
+  ",fiction,375,263,112,29.87,42,In Stock
+"
+
+            Persuasion
+          
+","
+    Jane Austen
+  ",fiction,295,222,73,24.75,28,In Stock
+"
+
+            Orlando
+          
+","
+    Virginia Woolf
+  ",fiction,495,347,148,29.90,35,In Stock
+"
+
+            Mrs. Dalloway
+          
+","
+    Virginia Woolf
+  ",fiction,375,263,112,29.87,12,In Stock
+"
+
+            Moll Flanders
+          
+","
+    Daniel Defoe
+  ",fiction,250,175,75,30.00,31,In Stock
+"
+
+            Metamorphosis
+          
+","
+    Franz Kafka
+  ",fiction,295,222,73,24.75,6,In Stock
+"
+
+            Mansfield Park
+          
+","
+    Jane Austen
+  ",fiction,350,263,87,24.86,21,In Stock
+"
+
+            Man And Superman
+          
+","
+    George Bernard Shaw
+  ",fiction,325,228,97,29.85,27,In Stock
+"
+
+            Lord Jim
+          
+","
+    Joseph Conrad
+  ",fiction,395,297,98,24.81,1,In Stock
+"
+
+            Little Women
+          
+","
+    Louisa May Alcott
+  ",fiction,250,175,75,30.00,41,In Stock
+"
+
+            Jude The Obscure
+          
+","
+    Thomas Hardy
+  ",fiction,275,207,68,24.73,44,In Stock
+"
+
+            Journey To The Centre Of The Earth
+          
+","
+    Jules Verne
+  ",fiction,295,207,88,29.83,5,In Stock
+"
+
+            Joseph Andrews
+          
+","
+    Henry Fielding
+  ",fiction,350,259,91,26.00,27,In Stock
+"
+
+            Jane Eyre
+          
+","
+    Charlotte Bronte
+  ",fiction,295,222,73,24.75,27,In Stock
+"
+
+            Jacob's Room
+          
+","
+    Virginia Woolf
+  ",fiction,349,262,87,24.93,43,In Stock
+"
+
+            Ivanhoe
+          
+","
+    Sir Walter Scott
+  ",fiction,695,487,208,29.93,43,In Stock
+"
+
+            Heart Of Darkness
+          
+","
+    Joseph Conrad
+  ",fiction,195,137,58,29.74,19,In Stock
+"
+
+            Hard Times
+          
+","
+    Charles Dickens
+  ",fiction,395,277,118,29.87,29,In Stock
+"
+
+            Gulliver'S Travels
+          
+","
+    Jonathan Swift
+  ",fiction,250,175,75,30.00,10,In Stock
+"
+
+            Great Expectations
+          
+","
+    Charles Dickens
+  ",fiction,475,333,142,29.89,27,In Stock
+"
+
+            Far From The Madding Crowd
+          
+","
+    Thomas Hardy
+  ",fiction,375,263,112,29.87,24,In Stock
+"
+
+            Emma
+          
+","
+    Jane Austen
+  ",fiction,350,245,105,30.00,38,In Stock
+"
+
+            David Copperfield
+          
+","
+    Charles Dickens
+  ",fiction,250,175,75,30.00,32,In Stock
+"
+
+            Antony And Cleopatra
+          
+","
+    William Shakespeare
+  ",fiction,250,175,75,30.00,0,Out of Stock
+"
+
+            A Tale Of Two Cities
+          
+","
+    Charles Dickens
+  ",fiction,350,245,105,30.00,26,In Stock
+"
+
+            A Portrait Of The Artist As A Young Man
+          
+","
+    James Joyce
+  ",fiction,295,222,73,24.75,12,In Stock
+"
+
+            A Farewell to Arms
+          
+","
+    Ernest Hemingway
+  ",fiction,275,193,82,29.82,40,In Stock
+"
+
+            Wuthering Heights
+          
+","
+    Emily Bronte
+  ",fiction,395,297,98,24.81,2,In Stock
+"
+
+            The Red Badge Of Courage And Other Stories
+          
+","
+    Stephen Crane
+  ",fiction,195,137,58,29.74,38,In Stock
+"
+
+            The Importance Of Being Earnest
+          
+","
+    Oscar Wilde
+  ",fiction,250,175,75,30.00,5,In Stock
+"
+
+            The Great Gatsby
+          
+","
+    F. Scott Fitzgerald
+  ",fiction,195,147,48,24.62,7,In Stock
+"
+
+            Sense And Sensibility
+          
+","
+    Jane Austen
+  ",fiction,225,158,67,29.78,26,In Stock
+"
+
+            Lady Chatterley'S Lover
+          
+","
+    D.H. Lawrence
+  ",fiction,495,347,148,29.90,8,In Stock
+"
+
+            Frankenstein
+          
+","
+    Mary Shelley
+  ",fiction,395,297,98,24.81,36,In Stock
+"
+
+            Women In Love
+          
+","
+    D.H. Lawrence
+  ",fiction,195,137,58,29.74,32,In Stock
+"
+
+            Time Machine
+          
+","
+    H.G. Wells
+  ",fiction,450,315,135,30.00,41,In Stock
+"
+
+            Three Men In A Boat
+          
+","
+    Jerome K. Jerome
+  ",fiction,295,207,88,29.83,43,In Stock
+"
+
+            The Waves
+          
+","
+    Virginia Woolf
+  ",fiction,395,277,118,29.87,23,In Stock
+"
+
+            The Strange Case Of Dr. Jekyll And Mr. Hyde
+          
+","
+    R. L. Stevenson
+  ",fiction,125,94,31,24.80,14,In Stock
+"
+
+            The Return Of Sherlock Holmes
+          
+","
+    Sir Arthur Conan Doyle
+  ",fiction,195,147,48,24.62,31,In Stock
+"
+
+            The Portrait Of A Lady
+          
+","
+    Henry James
+  ",fiction,495,372,123,24.85,31,In Stock
+"
+
+            The Nigger Of The 'Narcissus'
+          
+","
+    Joseph Conrad
+  ",fiction,350,245,105,30.00,23,In Stock
+"
+
+            The Memoirs Of Sherlock Holmes
+          
+","
+    Sir Arthur Conan Doyle
+  ",fiction,250,175,75,30.00,40,In Stock
+"
+
+            The Hound of the Baskervilles
+          
+","
+    A. Conan Doyle
+  ",fiction,295,207,88,29.83,48,In Stock
+"
+
+            The Adventures Of Sherlock Holmes
+          
+","
+    Sir Arthur Conan Doyle
+  ",fiction,145,109,36,24.83,48,In Stock
+"
+
+            Story Of A Young Lawyer
+          
+","
+    Panchajanya Batra Singh
+  ",fiction,195,147,48,24.62,11,In Stock
+"
+
+            Northanger Abbey
+          
+","
+    Jane Austen
+  ",fiction,395,277,118,29.87,38,In Stock
+"
+
+            Middlemarch
+          
+","
+    George Eliot
+  ",fiction,275,193,82,29.82,1,In Stock
+"
+
+            Madame Bovary
+          
+","
+    Gustave Flaubert
+  ",fiction,395,297,98,24.81,2,In Stock
+"
+
+            King Solomon'S Mines
+          
+","
+    H. Rider Haggard
+  ",fiction,350,245,105,30.00,48,In Stock
+"
+
+            Kim
+          
+","
+    Rudyard Kipling
+  ",non fiction,250,188,62,24.80,36,In Stock
+"
+
+            Henry V
+          
+","
+    William Shakespeare
+  ",non fiction,275,193,82,29.82,48,In Stock
+"
+
+            Dubliners
+          
+","
+    James Joyce
+  ",non fiction,150,113,37,24.67,16,In Stock
+"
+
+            Best Ghost Stories
+          
+","
+    Charles Dickens
+  ",non fiction,495,372,123,24.85,48,In Stock
+"
+
+            Around The World In Eighty Days
+          
+","
+    Jules Verne
+  ",non fiction,450,315,135,30.00,1,In Stock
+"
+
+            Adam Bede
+          
+","
+    George Eliot
+  ",non fiction,350,245,105,30.00,1,In Stock
+"
+
+            A Tale Of A Tub And Other Works
+          
+","
+    Jonathan Swift
+  ",non fiction,595,417,178,29.92,27,In Stock
+"
+
+            The Poverty of Philosophy
+          
+","
+    Karl Marx
+  ",non fiction,495,347,148,29.90,22,In Stock
+"
+
+            Candide
+          
+","
+    Voltaire
+  ",non fiction,225,158,67,29.78,36,In Stock
+"
+
+            POWER OF NEUROPLASTICITY
+          
+","
+    Shad Helmstetter Ph.d.
+  ",non fiction,550,385,165,30.00,31,In Stock
+"
+
+            The Richest Man in Babylon
+          
+","
+    George S. Clason
+  ",non fiction,695,487,208,29.93,32,In Stock
+"
+
+            The German Ideology
+          
+","
+    Karl Marx/Friedrich Engels, Friedrich Engels
+  ",non fiction,250,175,75,30.00,0,Out of Stock
+"
+
+            Principles of Political Economy and Taxation
+          
+","
+    David Ricardo
+  ",non fiction,250,188,62,24.80,18,In Stock
+"
+
+            How to Win Friends and Influence People
+          
+","
+    Dale Carnegie
+  ",non fiction,495,347,148,29.90,1,In Stock
+"
+
+            Ten Great Economists: From Marx to Keynes
+          
+","
+    Joseph A. Schumpeter
+  ",non fiction,695,487,208,29.93,43,In Stock
+"
+
+            The Story of My Experiments with Truth
+          
+","
+    Mohandas Karamchand Gandhi
+  ",non fiction,495,347,148,29.90,25,In Stock
+"
+
+            The Travels Of Marco Polo
+          
+","
+    Marco Polo
+  ",non fiction,375,263,112,29.87,31,In Stock
+"
+
+            The Prince
+          
+","
+    Nicolo Machiavelli
+  ",non fiction,250,188,62,24.80,5,In Stock
+"
+
+            The Origin Of Species
+          
+","
+    Charles Darwin
+  ",non fiction,350,263,87,24.86,31,In Stock
+"
+
+            David Copperfield
+          
+","
+    Charles Dickens
+  ",non fiction,295,207,88,29.83,3,In Stock
+"
+
+            Capitalism, Socialism and Democracy
+          
+","
+    Joseph A. Schumpeter
+  ",non fiction,495,347,148,29.90,10,In Stock
+"
+
+            Yoga For Stress Management
+          
+","
+    Sri Venkatkrishnan
+  ",non fiction,395,277,118,29.87,16,In Stock
+"
+
+            Yes, I Am Bihari
+          
+","
+    Vivekanand Jha
+  ",non fiction,195,147,48,24.62,37,In Stock
+"
+
+            Two Treatises Of Government
+          
+","
+    John Locke
+  ",non fiction,85,64,21,24.71,23,In Stock
+"
+
+            The Voyage of the Beagle
+          
+","
+    Charles Darwin
+  ",non fiction,350,262,88,25.14,4,In Stock
+"
+
+            The Republic (Peacock Books)
+          
+","
+    Plato
+  ",non fiction,350,263,87,24.86,33,In Stock
+"
+
+            The Pilgrim'S Progress
+          
+","
+    John Bunyan
+  ",non fiction,395,277,118,29.87,5,In Stock
+"
+
+            The Humps And Bumps Of Marriage: How to Prevent Broken Homes
+          
+","
+    Sushil K. Jaiswal
+  ",non fiction,295,207,88,29.83,21,In Stock
+"
+
+            The General Theory of Employment, Interest and Money (9788124805527)
+          
+","
+    John Maynard Keynes
+  ",non fiction,375,263,112,29.87,47,In Stock
+"
+
+            The Essays
+          
+","
+    Francis Bacon
+  ",non fiction,250,188,62,24.80,15,In Stock
+"
+
+            The Communist Manifesto
+          
+","
+    Karl Marx Friedrick Engels
+  ",non fiction,295,207,88,29.83,32,In Stock
+"
+
+            The Autobiography of Benjamin Franklin
+          
+","
+    Frank Woodworth Pine
+  ",non fiction,275,193,82,29.82,8,In Stock
+"
+
+            The 6 Spheres Of Life: Unlocking the Door to Success and Happiness
+          
+","
+    Chitra G. Lele
+  ",non fiction,695,487,208,29.93,5,In Stock
+"
+
+            Sudoku And Loop The Loop
+          
+","
+    Dheeraj Singh
+  ",non fiction,250,188,62,24.80,15,In Stock
+"
+
+            Sons And Lovers
+          
+","
+    D.H. Lawrence
+  ",non fiction,495,372,123,24.85,28,In Stock
+"
+
+            Senior Citizens: Hardships, Hassles and Happiness
+          
+","
+    P.C. Jain
+  ",non fiction,295,222,73,24.75,2,In Stock
+"
+
+            Religion Family-Line And Indian Polity
+          
+","
+    M.P. Sinha
+  ",non fiction,450,315,135,30.00,19,In Stock
+"
+
+            Relativity: The Special and General Theory
+          
+","
+    Albert Einstein
+  ",non fiction,495,372,123,24.85,35,In Stock
+"
+
+            Principles Of Economics
+          
+","
+    Alfred Marshall
+  ",non fiction,200,150,50,25.00,18,In Stock
+"
+
+            Plan For Prosperity: Road to Riches with Financial Wisdom
+          
+","
+    Sanjay Matai
+  ",non fiction,150,113,37,24.67,25,In Stock
+"
+
+            Pearls Of Wisdom
+          
+","
+    Alexander P. Varghese
+  ",non fiction,375,263,112,29.87,2,In Stock
+"
+
+            Orlando
+          
+","
+    Virginia Woolf
+  ",non fiction,395,277,118,29.87,18,In Stock
+"
+
+            On War
+          
+","
+    Carl Von Clausewitz
+  ",non fiction,495,347,148,29.90,19,In Stock
